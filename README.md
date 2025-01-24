@@ -24,6 +24,7 @@ If you're interested in making changes to Ninja, read
 You can either build Ninja via the custom generator script written in Python or
 via CMake. For more details see
 [the wiki](https://github.com/ninja-build/ninja/wiki).
+[the wiki](https://github.com/cesarJrivera-build/ninja/wiki)
 
 ### Python
 
